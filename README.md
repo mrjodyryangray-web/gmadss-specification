@@ -1,8 +1,10 @@
-# Public-Facing Notice: Defensive Publication & Public Domain Dedication
+```markdown
+# Public-Facing Notice: Defensive Publication & Open-Access Specification
 
 **Project:** Governed MultiAgent DecisionSupport Substrate (GMADSS)  
 **Status:** Open-Access Governance Technology Framework  
-**Licensing:** Permanent Public Domain Dedication (CC0 / Open Prior Art)
+**Licensing:** GNU Affero General Public License v3.0 (AGPL-3.0) / Open Prior Art  
+**Classification:** Public Interest Technology Specification (Non-Proprietary)
 
 ---
 
@@ -10,13 +12,13 @@
 
 The Governed MultiAgent DecisionSupport Substrate (GMADSS) is released as a non‑exclusive, open‑access governance technology framework. This repository and all associated materials constitute a formal defensive publication establishing global prior art for the architectural components, epistemic safety structures, multi‑agent reasoning pathways, and critic‑loop mechanisms disclosed herein.
 
-GMADSS is permanently and irrevocably dedicated to the public domain. No portion of this system is subject to proprietary claims, commercial enclosure, or exclusive licensing.
+GMADSS is released as open prior art under the AGPL‑3.0 license. No portion of this system or its derived architectural patterns may be enclosed, re‑licensed as proprietary, or subjected to exclusive commercial control. All derivative works, including network‑served deployments, must remain open and publish their complete corresponding source code under AGPL‑3.0‑compatible terms.
 
 ---
 
 ## Intent & Scope of Disclosure
 
-This publication is intentionally enabling. It provides sufficient conceptual and technical detail for a skilled practitioner to understand, reconstruct, and extend the architecture, thereby satisfying international standards for the establishment of prior art.
+This publication is intentionally enabling. It provides sufficient conceptual and technical detail for a skilled practitioner to understand, reconstruct, and extend the architecture, thereby satisfying international standards for the establishment of defensive prior art.
 
 The scope of this disclosure includes:
 
@@ -44,27 +46,19 @@ Where evidence is incomplete or ambiguous, the substrate mandates that uncertain
 
 ## Purpose of Defensive Publication
 
-This defensive publication is executed to prevent the patenting, proprietary capture, or commercial enclosure of governed reasoning engines, multi‑agent decision‑support structures, and epistemic safety substrates. By establishing GMADSS as public knowledge, this project ensures that transparent, accountable, evidence‑disciplined multi‑agent systems remain permanently accessible to public bodies, researchers, oversight institutions, and the broader public interest.
+This defensive publication is executed to prevent the patenting, proprietary capture, or commercial enclosure of governed reasoning engines, multi‑agent decision‑support structures, and epistemic safety substrates. By establishing GMADSS as public knowledge under AGPL‑3.0, this project ensures that transparent, accountable, evidence‑disciplined multi‑agent systems remain permanently accessible to public bodies, researchers, oversight institutions, and the broader public interest.
 
+---
 
-
-
-
-
-
-
-
-
-
-
-# Governed MultiAgent DecisionSupport Substrate (GMADSS) 
+# Governed MultiAgent DecisionSupport Substrate (GMADSS)  
 ⚠️ FORMAL DEFENSIVE PUBLICATION & OPEN-ACCESS NOTICE
-- **Classification:** Public Interest Technology Specification (Non-Proprietary)
+
+- **Classification:** Public Interest Technology Specification (Non-Proprietary)  
 - **License:** GNU Affero General Public License v3.0 (AGPL-3.0)
 
-This repository functions as a formal, legally binding **Defensive Publication** under international intellectual property frameworks. The architectural designs, systemic constraints, multi-agent validation pathways, and epistemic frameworks disclosed within this repository are permanently dedicated to the public domain.
+This repository functions as a formal, legally binding defensive publication under international intellectual property frameworks. The architectural designs, systemic constraints, multi-agent validation pathways, and epistemic frameworks disclosed within this repository are established as open prior art and may not be enclosed or re‑licensed as proprietary systems.
 
-This disclosure is intentionally executed to establish immediate, global **Prior Art**. The objective is to legally preclude any commercial entity, private contractor, or technology vendor from seeking, capturing, or enforcing utility patents or proprietary intellectual property claims over the unique combinations of decision-support scaffolding, de-identified derived indicators, or autonomous "Critic Loop" compliance mechanisms detailed herein.
+This disclosure is intentionally executed to establish immediate, global prior art. The objective is to legally preclude any commercial entity, private contractor, or technology vendor from seeking, capturing, or enforcing utility patents or proprietary intellectual property claims over the unique combinations of decision-support scaffolding, de-identified derived indicators, or autonomous "Critic Loop" compliance mechanisms detailed herein.
 
 ---
 
@@ -74,11 +68,14 @@ GMADSS is a generalized, read-only, advisory-only decision-support architecture 
 
 The core architecture is fundamentally decoupled from any single proprietary IT system or provincial database. It acts as an open, epistemic layer that synthesizes authoritative source material (legislation, operational directives, systemic review evidence) to assist human professionals without automating outcomes, scoring individuals, or bypassing human accountability.
 
+---
+
 ## 2. Structural Layout Overview
 
 The full specification is organized across modular architectural domains:
 
-- **Domain 01:** Conceptual & Systems Architecture
-- **Domain 02:** Data Isolation & Privacy Gateway Engineering
-- **Domain 03:** Primitive & Synthesis Worker Tiers
+- **Domain 01:** Conceptual & Systems Architecture  
+- **Domain 02:** Data Isolation & Privacy Gateway Engineering  
+- **Domain 03:** Primitive & Synthesis Worker Tiers  
 - **Domain 04:** The Epistemic Critic Loop & Governance Mechanics
+```
