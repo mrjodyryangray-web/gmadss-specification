@@ -1,3 +1,62 @@
+# Public-Facing Notice: Defensive Publication & Public Domain Dedication
+
+**Project:** Governed MultiAgent DecisionSupport Substrate (GMADSS)  
+**Status:** Open-Access Governance Technology Framework  
+**Licensing:** Permanent Public Domain Dedication (CC0 / Open Prior Art)
+
+---
+
+## Legal & Technical Notice
+
+The Governed MultiAgent DecisionSupport Substrate (GMADSS) is released as a non‑exclusive, open‑access governance technology framework. This repository and all associated materials constitute a formal defensive publication establishing global prior art for the architectural components, epistemic safety structures, multi‑agent reasoning pathways, and critic‑loop mechanisms disclosed herein.
+
+GMADSS is permanently and irrevocably dedicated to the public domain. No portion of this system is subject to proprietary claims, commercial enclosure, or exclusive licensing.
+
+---
+
+## Intent & Scope of Disclosure
+
+This publication is intentionally enabling. It provides sufficient conceptual and technical detail for a skilled practitioner to understand, reconstruct, and extend the architecture, thereby satisfying international standards for the establishment of prior art.
+
+The scope of this disclosure includes:
+
+- Conceptual and governance architecture, including authority‑hierarchy enforcement and human‑oversight provenance structures.  
+- Data‑security and privacy‑gateway engineering.  
+- Primitive and synthesis worker tiers, including narrative‑closure prevention methods.  
+- Epistemic critic‑loop mechanics and adversarial audit systems.
+
+---
+
+## Core Governance Principles
+
+GMADSS is designed as a transparent, adversarial, evidence‑disciplined reasoning substrate for use within regulated, legislative, and policy‑bound environments. To prevent systemic misuse or commercial enclosure, the framework enforces the following structural constraints:
+
+**Strict Advisory Posture:**  
+GMADSS does not automate decisions, generate scores, or execute operational commands. It functions solely as a governed epistemic layer, preserving human accountability at all times.
+
+**Anti‑Narrative Smoothing:**  
+The system is architected to expose contradictions, friction, and conflicting data rather than concealing or harmonizing them.
+
+**Preservation of Uncertainty:**  
+Where evidence is incomplete or ambiguous, the substrate mandates that uncertainty be preserved and explicitly surfaced to human operators.
+
+---
+
+## Purpose of Defensive Publication
+
+This defensive publication is executed to prevent the patenting, proprietary capture, or commercial enclosure of governed reasoning engines, multi‑agent decision‑support structures, and epistemic safety substrates. By establishing GMADSS as public knowledge, this project ensures that transparent, accountable, evidence‑disciplined multi‑agent systems remain permanently accessible to public bodies, researchers, oversight institutions, and the broader public interest.
+
+
+
+
+
+
+
+
+
+
+
+
 # Governed MultiAgent DecisionSupport Substrate (GMADSS) 
 ⚠️ FORMAL DEFENSIVE PUBLICATION & OPEN-ACCESS NOTICE
 - **Classification:** Public Interest Technology Specification (Non-Proprietary)
